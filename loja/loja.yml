@@ -6,5 +6,4 @@ spring:
   jpa:
     hibernate:
       ddl-auto: update
-
 cor:"azul"
